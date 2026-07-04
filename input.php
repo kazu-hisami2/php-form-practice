@@ -6,6 +6,8 @@
 </head>
 <body>
     <h1>ユーザー登録（1/3）入力</h1>
+
+    <!--フォームの要素を作成（送信のmethodは$POST、入力部分はすべてrequired属性に）-->
     <form action="confirm.php" method="post">
         <p>
             <label>

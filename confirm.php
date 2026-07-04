@@ -30,10 +30,14 @@ $age = $_POST["age"];
     </table>
     </p>
     <form action = "complete.php" method = "POST">
+
+        <!--complete.phpページへデータ保持するために隠しフィールドに"name"と"email"を表示（ブラウザ表示はされない）-->
         <input type="hidden" name="name" value="<?php echo htmlspecialchars($name, ENT_QUOTES, 'UTF-8'); ?>">
         <input type="hidden" name="email" value="<?php echo htmlspecialchars($email, ENT_QUOTES, 'UTF-8'); ?>">
+
+        <!--最初のボタンは1つ前に戻る(データ保持されない)、2番目のボタンはcomplete.phpに遷移-->
         <button type="button" onclick="history.back()">戻る</button>
-        <button type="submit">送信する</button>
+        <button type="submit">登録する</button>
     </form>
 </body>
 </html>
