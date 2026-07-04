@@ -2,6 +2,7 @@
 // フォームから送信されたデータを受け取る
 $name = $_POST["name"];
 $email = $_POST["email"];
+$age = $_POST["age"];
 ?>
 <!DOCTYPE html>
 <html lang="ja">
