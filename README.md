@@ -25,7 +25,6 @@ Docker環境下で http://localhost:8000/7-4-3_hands-on/practice/input.php に�
 <img width="1208" height="1052" alt="Image" src="https://github.com/user-attachments/assets/61b8a1d7-32ef-4a93-a6fd-10d8d3d065ba" />
 
 - 確認画面（confirm.php）
-<img width="1208" height="1052" alt="Image" src="https://github.com/user-attachments/assets/75a2896e-f390-42e3-978e-c9ab8cdc590a" />
-
+<img width="1208" height="1052" alt="Image" src="https://github.com/user-attachments/assets/7d50f8f9-d0da-42be-846e-58ba2f23e5e1" />
 - 完了画面（complete.php）
 <img width="1208" height="1052" alt="Image" src="https://github.com/user-attachments/assets/8c09f547-b5a4-42a6-a033-43931ee6a650" />
